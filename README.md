@@ -1,3 +1,6 @@
+[![Pandas-Test](https://github.com/Pochacco-Choppi/SpamClassifier/actions/workflows/pandas_test.yml/badge.svg)](https://github.com/Pochacco-Choppi/SpamClassifier/actions/workflows/pandas_test.yml/badge.svg)
+[![Numpy-Test](https://github.com/Pochacco-Choppi/SpamClassifier/actions/workflows/numpy_test.yml/badge.svg)](https://github.com/Pochacco-Choppi/SpamClassifier/actions/workflows/numpy_test.yml/badge.svg)
+[![Pylint-Check](https://github.com/Pochacco-Choppi/SpamClassifier/actions/workflows/pylint_check.yml/badge.svg)](https://github.com/Pochacco-Choppi/SpamClassifier/actions/workflows/pylint_check.yml/badge.svg)
 
 # SpamClassifier
 
