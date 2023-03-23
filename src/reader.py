@@ -271,7 +271,7 @@ class DSReader:
             a percent of train data
         """
         if (len(list_email) & len(list_label)) <= 0 or percent <= 0:
-            raise Exception
+            raise ValueError
 
         logging.info('Starting the split_train_and_test method!')
 
